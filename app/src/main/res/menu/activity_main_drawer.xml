@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_mais_provas"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Mais Provas" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="LoginActivity" />
+
+    </group>
+
+    <item android:title="Configurações">
+        <menu>
+            <item
+                android:id="@+id/nav_prefs_geral"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Geral" />
+            <item
+                android:id="@+id/nav_prefs_perfil"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Perfil" />
+        </menu>
+    </item>
+
+</menu>

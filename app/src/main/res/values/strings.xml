@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Concurso Engine V2</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings relacionadas to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">Email inválido</string>
+    <string name="error_invalid_password">Senha deve conter mais que 6 dígitos</string>
+    <string name="error_invalid_password_check">Repetir Senha deve ser igual a Senha</string>
+    <string name="error_incorrect_password">Senha incorreta</string>
+    <string name="error_field_required">Este campo é necessário</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="title_activity_basic">BasicActivity</string>
+    <string name="registrar_se">Registrar-se</string>
+    <string name="entrar">Entrar</string>
+    <string name="entrar_sem_login">Entrar Sem Login</string>
+    <string name="cadastrar">Registrar-se</string>
+    <string name="concurso_engine">Concurso Engine</string>
+    <string name="repetir_senha">Repetir senha</string>
+    <string name="usuario_convidado">Usuário Convidado</string>
+    <string name="clique_aqui_para_registrar_se">Clique aqui para Registrar-se</string>
+    <string name="n_o_se_registrou_ainda">Não se registrou ainda?</string>
+    <string name="ou">ou</string>
+    <string name="nenhuma_conta_ainda">Nenhuma conta ainda?</string>
+    <string name="idade">Idade</string>
+
+    <string name="facebook_app_id">454091981596180</string>
+    <string name="titulo_login">Escolha uma opção de login</string>
+    <string name="escreva_um_coment">Escreva um comentário...</string>
+    <string name="title_activity_inside_db">InsideDbActivity</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+
+</resources>

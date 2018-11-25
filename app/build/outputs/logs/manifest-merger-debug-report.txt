@@ -1,0 +1,370 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:2:1-72:12
+MERGED from [com.android.support:design:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/05a2abb35ce82737dbdcdf655c260254/AndroidManifest.xml:17:1-24:12
+MERGED from [jp.wasabeef:recyclerview-animators:2.2.6] /home/humberto/.gradle/caches/transforms-1/files-1.1/recyclerview-animators-2.2.6.aar/399822e485d67ede5a43cabd9915d96f/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.38.1.aar/9b57ecca25972ca04a1abc450499dbea/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-login-4.38.1.aar/294a9d8bc2bc42348d7958e5300606bd/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-share-4.38.1.aar/facac679f6768ec4c39bd03cf2396e3d/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/ea030590750840d088c73e964d5c5de3/AndroidManifest.xml:21:1-37:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4d0f1656bdc90da7379c4d370b81293/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/012253061b5da182a935bb31bf653950/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/a87d867b5cb78e7f122b428737695642/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/ff8e717b83b42fabcfc99916cacfa3f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/35526a0dec3f8b8658927f8b7ac88a0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/bfc4f1a72e053a27839fc8e73018169e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/60b828d81bd072c731afe451a9dc0826/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2c045fbf3d879bb060901f10193c0b4c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/60d394136f6c8f673e469e0848393c9c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-places-4.38.1.aar/3815c3119307a25a130b2b9b10d32a43/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.38.1.aar/cf356d39070a40706ec10a6a98209054/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.38.1.aar/c9f5af4f13aa9c745088e117a4e897e3/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-marketing:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.38.1.aar/0590e3d426f0a4235800b17a9a710c00/AndroidManifest.xml:21:1-35:12
+MERGED from [com.facebook.android:facebook-core:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-core-4.38.1.aar/291d6f2b7a59697a7bbc4b44b51ebb14/AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/47d5431edc1de374972365d8d84a8b65/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3a35aa00ba48bc538586e7f714916405/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f8496e6a0890e22df2c54bc2aab40d9d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6dd7ecb79436d4a9c0bcc1f05db9cab4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ecf5fcd4c386b0335218fe1ad940e9c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e5dff6f0df9d2645625558a31c44eaaa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3c5ebc4ca49724dd870213a4df88c402/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/1d0940df4a1c6d3cd7e135aef48ddf03/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a4fa7dc7ecf4044d2a3bd0d8a3b72c1b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/21bf500a3016e795f68c44ae39055e8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a65854e9fa33326f6612b36f63376d1e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/aab509c0b2abd8e6d9af3901d8325b9b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] /home/humberto/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/897def05f76d14e35e6620ff7ec09b9e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6eac23ac80ac2ec5cd55d7a83999db40/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/acc12e1e6dfffed4adceec83e6498fb4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3800e9cbc72a93f9b3637f805736e263/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/c3c0689fdabe9eff475d5d45b6e7ec93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/66df7932bba6d1fe36524a3b94a3001c/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b0e3c54e7f305c4d2c5c35d8db91625f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/eea019dd99f4d30adf64b19df8535500/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/96c51042efb4a5e7b59f6484b7d96363/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1a38e8022497f6dc7df7d5d104609111/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d6ab1c254282debf419c7b6a0384b62d/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:2:1-72:12
+INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:2:1-72:12
+	package
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:2:1-72:12
+		INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:2:1-72:12
+		INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:12:22-78
+application
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:14:5-70:19
+MERGED from [com.android.support:design:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/05a2abb35ce82737dbdcdf655c260254/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/05a2abb35ce82737dbdcdf655c260254/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.38.1.aar/9b57ecca25972ca04a1abc450499dbea/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.38.1.aar/9b57ecca25972ca04a1abc450499dbea/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-login-4.38.1.aar/294a9d8bc2bc42348d7958e5300606bd/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-login-4.38.1.aar/294a9d8bc2bc42348d7958e5300606bd/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-share-4.38.1.aar/facac679f6768ec4c39bd03cf2396e3d/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-share-4.38.1.aar/facac679f6768ec4c39bd03cf2396e3d/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/ea030590750840d088c73e964d5c5de3/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/ea030590750840d088c73e964d5c5de3/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-places:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-places-4.38.1.aar/3815c3119307a25a130b2b9b10d32a43/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-places-4.38.1.aar/3815c3119307a25a130b2b9b10d32a43/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.38.1.aar/cf356d39070a40706ec10a6a98209054/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.38.1.aar/cf356d39070a40706ec10a6a98209054/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.38.1.aar/c9f5af4f13aa9c745088e117a4e897e3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.38.1.aar/c9f5af4f13aa9c745088e117a4e897e3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-marketing:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.38.1.aar/0590e3d426f0a4235800b17a9a710c00/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-marketing:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.38.1.aar/0590e3d426f0a4235800b17a9a710c00/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-core:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-core-4.38.1.aar/291d6f2b7a59697a7bbc4b44b51ebb14/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-core-4.38.1.aar/291d6f2b7a59697a7bbc4b44b51ebb14/AndroidManifest.xml:28:5-51:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/66df7932bba6d1fe36524a3b94a3001c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/66df7932bba6d1fe36524a3b94a3001c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/eea019dd99f4d30adf64b19df8535500/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/eea019dd99f4d30adf64b19df8535500/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/66df7932bba6d1fe36524a3b94a3001c/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:20:9-40
+	android:usesCleartextTraffic
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:16:9-44
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:21:9-23:55
+	android:value
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:23:13-52
+	android:name
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:22:13-58
+activity#com.humberto.concursoengine.ActivityMain
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:25:9-35:20
+	android:screenOrientation
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:28:13-49
+	android:label
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:27:13-45
+	android:theme
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:26:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:33:27-74
+activity#com.humberto.concursoengine.ActivityLogin
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:36:9-39:52
+	android:screenOrientation
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:37:13-42
+activity#com.humberto.concursoengine.ActivityQuestao
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:40:9-44:59
+	android:screenOrientation
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:42:13-45
+	android:theme
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:41:13-44
+activity#com.humberto.concursoengine.ActivityRegister
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:45:9-48:52
+	android:screenOrientation
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:47:13-45
+	android:name
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:46:13-45
+activity#com.humberto.concursoengine.ActivityProvas
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:49:9-53:59
+	android:screenOrientation
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:52:13-49
+	android:label
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:51:13-45
+	android:theme
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:53:13-56
+	android:name
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:50:13-43
+activity#com.humberto.concursoengine.ActivitySettings
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:54:9-56:63
+	android:label
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:56:13-60
+	android:name
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:55:13-45
+activity#com.humberto.concursoengine.ItemListActivity
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:57:9-60:68
+	android:label
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:59:13-52
+	android:theme
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:60:13-56
+	android:name
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:58:13-45
+activity#com.humberto.concursoengine.ItemDetailActivity
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:61:9-69:20
+	android:parentActivityName
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:64:13-59
+	android:label
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:63:13-54
+	android:theme
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:65:13-56
+	android:name
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:62:13-47
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:66:13-68:80
+	android:value
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:68:17-77
+	android:name
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml:67:17-63
+uses-sdk
+INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml
+INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/05a2abb35ce82737dbdcdf655c260254/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/05a2abb35ce82737dbdcdf655c260254/AndroidManifest.xml:20:5-44
+MERGED from [jp.wasabeef:recyclerview-animators:2.2.6] /home/humberto/.gradle/caches/transforms-1/files-1.1/recyclerview-animators-2.2.6.aar/399822e485d67ede5a43cabd9915d96f/AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:recyclerview-animators:2.2.6] /home/humberto/.gradle/caches/transforms-1/files-1.1/recyclerview-animators-2.2.6.aar/399822e485d67ede5a43cabd9915d96f/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.38.1.aar/9b57ecca25972ca04a1abc450499dbea/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.38.1.aar/9b57ecca25972ca04a1abc450499dbea/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-login-4.38.1.aar/294a9d8bc2bc42348d7958e5300606bd/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-login-4.38.1.aar/294a9d8bc2bc42348d7958e5300606bd/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-share-4.38.1.aar/facac679f6768ec4c39bd03cf2396e3d/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-share-4.38.1.aar/facac679f6768ec4c39bd03cf2396e3d/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/ea030590750840d088c73e964d5c5de3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/ea030590750840d088c73e964d5c5de3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4d0f1656bdc90da7379c4d370b81293/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4d0f1656bdc90da7379c4d370b81293/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/012253061b5da182a935bb31bf653950/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/012253061b5da182a935bb31bf653950/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/a87d867b5cb78e7f122b428737695642/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/a87d867b5cb78e7f122b428737695642/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/ff8e717b83b42fabcfc99916cacfa3f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/ff8e717b83b42fabcfc99916cacfa3f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/35526a0dec3f8b8658927f8b7ac88a0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/35526a0dec3f8b8658927f8b7ac88a0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/bfc4f1a72e053a27839fc8e73018169e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/bfc4f1a72e053a27839fc8e73018169e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/60b828d81bd072c731afe451a9dc0826/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/60b828d81bd072c731afe451a9dc0826/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2c045fbf3d879bb060901f10193c0b4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2c045fbf3d879bb060901f10193c0b4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/60d394136f6c8f673e469e0848393c9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/60d394136f6c8f673e469e0848393c9c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-places-4.38.1.aar/3815c3119307a25a130b2b9b10d32a43/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-places-4.38.1.aar/3815c3119307a25a130b2b9b10d32a43/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.38.1.aar/cf356d39070a40706ec10a6a98209054/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.38.1.aar/cf356d39070a40706ec10a6a98209054/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.38.1.aar/c9f5af4f13aa9c745088e117a4e897e3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.38.1.aar/c9f5af4f13aa9c745088e117a4e897e3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.38.1.aar/0590e3d426f0a4235800b17a9a710c00/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.38.1.aar/0590e3d426f0a4235800b17a9a710c00/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-core-4.38.1.aar/291d6f2b7a59697a7bbc4b44b51ebb14/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-core-4.38.1.aar/291d6f2b7a59697a7bbc4b44b51ebb14/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/47d5431edc1de374972365d8d84a8b65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/47d5431edc1de374972365d8d84a8b65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3a35aa00ba48bc538586e7f714916405/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3a35aa00ba48bc538586e7f714916405/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f8496e6a0890e22df2c54bc2aab40d9d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f8496e6a0890e22df2c54bc2aab40d9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6dd7ecb79436d4a9c0bcc1f05db9cab4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6dd7ecb79436d4a9c0bcc1f05db9cab4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ecf5fcd4c386b0335218fe1ad940e9c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ecf5fcd4c386b0335218fe1ad940e9c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e5dff6f0df9d2645625558a31c44eaaa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e5dff6f0df9d2645625558a31c44eaaa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3c5ebc4ca49724dd870213a4df88c402/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3c5ebc4ca49724dd870213a4df88c402/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/1d0940df4a1c6d3cd7e135aef48ddf03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/1d0940df4a1c6d3cd7e135aef48ddf03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a4fa7dc7ecf4044d2a3bd0d8a3b72c1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a4fa7dc7ecf4044d2a3bd0d8a3b72c1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/21bf500a3016e795f68c44ae39055e8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/21bf500a3016e795f68c44ae39055e8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a65854e9fa33326f6612b36f63376d1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a65854e9fa33326f6612b36f63376d1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/aab509c0b2abd8e6d9af3901d8325b9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/aab509c0b2abd8e6d9af3901d8325b9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /home/humberto/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/897def05f76d14e35e6620ff7ec09b9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /home/humberto/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/897def05f76d14e35e6620ff7ec09b9e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6eac23ac80ac2ec5cd55d7a83999db40/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6eac23ac80ac2ec5cd55d7a83999db40/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/acc12e1e6dfffed4adceec83e6498fb4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/acc12e1e6dfffed4adceec83e6498fb4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3800e9cbc72a93f9b3637f805736e263/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3800e9cbc72a93f9b3637f805736e263/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/c3c0689fdabe9eff475d5d45b6e7ec93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/c3c0689fdabe9eff475d5d45b6e7ec93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/66df7932bba6d1fe36524a3b94a3001c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/66df7932bba6d1fe36524a3b94a3001c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b0e3c54e7f305c4d2c5c35d8db91625f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b0e3c54e7f305c4d2c5c35d8db91625f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/eea019dd99f4d30adf64b19df8535500/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/eea019dd99f4d30adf64b19df8535500/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/96c51042efb4a5e7b59f6484b7d96363/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/96c51042efb4a5e7b59f6484b7d96363/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1a38e8022497f6dc7df7d5d104609111/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1a38e8022497f6dc7df7d5d104609111/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d6ab1c254282debf419c7b6a0384b62d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/humberto/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d6ab1c254282debf419c7b6a0384b62d/AndroidManifest.xml:20:5-44
+INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml
+INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml
+		ADDED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/src/main/AndroidManifest.xml
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/ea030590750840d088c73e964d5c5de3/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/ea030590750840d088c73e964d5c5de3/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/ea030590750840d088c73e964d5c5de3/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/ea030590750840d088c73e964d5c5de3/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/ea030590750840d088c73e964d5c5de3/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/ea030590750840d088c73e964d5c5de3/AndroidManifest.xml:33:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/ea030590750840d088c73e964d5c5de3/AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-common-4.38.1.aar/ea030590750840d088c73e964d5c5de3/AndroidManifest.xml:34:19-64
+provider#com.facebook.marketing.internal.MarketingInitProvider
+ADDED from [com.facebook.android:facebook-marketing:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.38.1.aar/0590e3d426f0a4235800b17a9a710c00/AndroidManifest.xml:29:9-32:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-marketing:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.38.1.aar/0590e3d426f0a4235800b17a9a710c00/AndroidManifest.xml:31:13-73
+	android:exported
+		ADDED from [com.facebook.android:facebook-marketing:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.38.1.aar/0590e3d426f0a4235800b17a9a710c00/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-marketing:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.38.1.aar/0590e3d426f0a4235800b17a9a710c00/AndroidManifest.xml:30:13-81
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-core-4.38.1.aar/291d6f2b7a59697a7bbc4b44b51ebb14/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-core-4.38.1.aar/291d6f2b7a59697a7bbc4b44b51ebb14/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-core-4.38.1.aar/291d6f2b7a59697a7bbc4b44b51ebb14/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-core-4.38.1.aar/291d6f2b7a59697a7bbc4b44b51ebb14/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-core-4.38.1.aar/291d6f2b7a59697a7bbc4b44b51ebb14/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-core-4.38.1.aar/291d6f2b7a59697a7bbc4b44b51ebb14/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-core-4.38.1.aar/291d6f2b7a59697a7bbc4b44b51ebb14/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-core-4.38.1.aar/291d6f2b7a59697a7bbc4b44b51ebb14/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-core-4.38.1.aar/291d6f2b7a59697a7bbc4b44b51ebb14/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.38.1] /home/humberto/.gradle/caches/transforms-1/files-1.1/facebook-core-4.38.1.aar/291d6f2b7a59697a7bbc4b44b51ebb14/AndroidManifest.xml:48:25-92

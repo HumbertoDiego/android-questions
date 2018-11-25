@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/content_basic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:context="com.humberto.concursoengine.ActivityQuestao"
+        tools:showIn="@layout/activity_basic"
+        android:orientation="vertical">
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <TextView
+                            android:layout_width="169dp"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/contador_nov"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                            android:textColor="@color/colorPrimaryLight"
+                            android:paddingLeft="8dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/contador_rev"
+                            android:layout_weight="1"
+                            android:textColor="@android:color/holo_green_dark"
+                            android:textSize="24sp" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/grey"
+                        android:id="@+id/view3" />
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="34dp"
+                        android:padding="8dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="OAB"
+                            android:layout_weight="1"
+                            android:id="@+id/question_title" />
+
+                        <View
+                            android:layout_width="1dp"
+                            android:layout_height="31dp"
+                            android:background="@color/grey"
+                            android:id="@+id/view2"
+                            android:layout_weight="0.00" />
+
+                        <TextView
+                            android:text="Comentários:"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/question_nrComents"
+                            android:layout_weight="1"
+                            android:layout_marginLeft="16dp" />
+
+                        <View
+                            android:layout_width="1dp"
+                            android:layout_height="31dp"
+                            android:background="@color/grey"
+                            android:id="@+id/view5"
+                            android:layout_weight="0.00" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/question_intervalo"
+                            android:text="Intervalo:"
+                            android:layout_weight="1"
+                            android:layout_marginLeft="8dp" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/grey" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="16dp"
+                        android:elevation="100dp"
+                        android:weightSum="1">
+
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/question"
+                            android:text="Pergunta"
+                            android:layout_weight="0.27"
+                            android:textSize="12sp" />
+
+
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/grey"
+                        android:layout_weight="0.04" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:elevation="100dp"
+                        android:weightSum="3">
+
+
+                        <Button
+                            android:text="Dificil (reset)"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/dificil"
+                            android:background="@android:color/holo_red_light"
+                            android:layout_weight="1"
+                            android:visibility="gone" />
+
+                        <Button
+                            android:text="+ 1 Dia(s)"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/medio"
+                            android:background="@android:color/holo_green_light"
+                            android:layout_weight="1"
+                            android:visibility="gone" />
+
+                        <Button
+                            android:text="+4 dia(s)"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/facil"
+                            android:background="@color/com_facebook_button_send_background_color"
+                            android:layout_weight="1"
+                            android:visibility="gone" />
+
+                        <Button
+                            android:text="Mostrar Resposta"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/show_answer"
+                            android:layout_weight="44.25"
+                            android:visibility="visible" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/grey"
+                        android:layout_weight="0.04"
+                        android:id="@+id/view6" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:padding="16dp"
+                        android:elevation="100dp"
+                        android:weightSum="1">
+
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/answer"
+                            android:text="Resposta"
+                            android:layout_weight="0.38"
+                            android:layout_marginLeft="8dp"
+                            android:visibility="invisible" />
+
+
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/grey"
+                        android:layout_weight="0.38"
+                        android:id="@+id/view8" />
+
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.RecyclerView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:visibility="visible"
+                    android:id="@+id/rvcoments" />
+
+            <ProgressBar
+                style="?android:attr/progressBarStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/progressBar"
+                tools:visibility="gone" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="66dp" />
+
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+
+
+</LinearLayout>
+
+

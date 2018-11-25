@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cv5"
+    android:layout_margin="0.2dp"
+    app:cardElevation="1dp"
+    app:cardBackgroundColor="@android:color/holo_blue_dark">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp"
+        android:elevation="100dp">
+
+
+        <TextView
+            android:text="Ord."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ord"
+            android:textSize="20sp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginRight="16dp"
+            android:textColor="@android:color/white" />
+
+        <ImageView
+            android:id="@+id/person_photo"
+            app:srcCompat="@drawable/student"
+
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/ord"
+            android:layout_toRightOf="@+id/ord"
+            android:layout_width="40dp"
+            android:layout_height="40dp" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/person_photo"
+            android:layout_toEndOf="@+id/person_photo"
+            android:layout_marginLeft="33dp"
+            android:layout_marginStart="33dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/person_name"
+                android:textSize="14sp"
+                android:text="person name"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@+id/person_photo"
+                android:layout_toEndOf="@+id/person_photo"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:text="Nível  / Exp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/person_exp"
+                android:layout_toRightOf="@+id/person_photo"
+                android:layout_toEndOf="@+id/person_photo"
+                android:layout_alignBottom="@+id/person_photo"
+                android:textSize="13sp"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>
+
+
+

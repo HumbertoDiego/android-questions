@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.humberto.concursoengine.ActivityQuestao">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <include layout="@layout/content_basic" />
+
+    <LinearLayout
+        android:id="@+id/bottom_send_coment1"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:weightSum="1"
+        android:padding="4dp"
+        android:background="@color/quse_grey">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@color/grey"
+            android:id="@+id/send_coment_foto" />
+
+        <LinearLayout
+            android:id="@+id/bottom_send_coment"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="1"
+            android:padding="4dp">
+
+            <Button
+                android:layout_width="53dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/button_camera"
+                android:background="@android:drawable/ic_menu_camera" />
+
+            <EditText
+                android:layout_width="192dp"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:id="@+id/editText_comentario"
+                android:layout_weight="0.75"
+                android:maxLines="10"
+                android:lines="5"
+                android:minLines="1"
+                android:hint="@string/escreva_um_coment"
+                android:layout_margin="4dp"
+                android:inputType="textMultiLine"
+                android:drawablePadding="10dp"/>
+
+            <Button
+                android:layout_width="37dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/button_send_comentario"
+                android:background="@android:drawable/ic_menu_send"
+                android:layout_weight="0.19" />
+        </LinearLayout>
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sun Nov 25 15:51:16 AMT 2018
+1.base=/home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/build/intermediates/transforms/dexMerger/debug/0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=enem.db
+0.set=ASSET
+0.base=/home/humberto/AndroidStudioProjects/ConcursoEngineV2/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+1.path=classes.dex
